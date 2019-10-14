@@ -9,7 +9,6 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.chehouzi.tars</groupId>
     <artifactId>tars-core</artifactId>
     <packaging>jar</packaging>
     <version>0.0.1-SNAPSHOT</version>

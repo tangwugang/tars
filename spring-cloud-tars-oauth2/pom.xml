@@ -8,7 +8,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.chehouzi.tars</groupId>
     <artifactId>spring-cloud-tars-oauth2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-cloud-tars-oauth2</name>
@@ -26,6 +25,7 @@
         <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
+            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
